@@ -1,0 +1,2416 @@
+{
+    "cities": [
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Acapulco Renacimiento",
+                    "Clave": "cinepolis-acapulco-renacimiento"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Acapulco",
+                    "Clave": "cinepolis-galerias-acapulco"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Diana Acapulco",
+                    "Clave": "cinepolis-galerias-diana-acapulco"
+                },
+                {
+                    "Nombre": "Cinépolis La Isla",
+                    "Clave": "cinepolis-la-isla"
+                },
+                {
+                    "Nombre": "Cinépolis Pie de la Cuesta",
+                    "Clave": "cinepolis-pie-de-la-cuesta"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Acapulco",
+                    "Clave": "cinepolis-sendero-acapulco"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Diana Acapulco",
+                    "Clave": "cinepolis-vip-galerias-diana-acapulco"
+                }
+            ],
+            "Nombre": "Acapulco",
+            "Clave": "acapulco",
+            "GeoX": "16.8336518",
+            "GeoY": "-99.8626562"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis La Florida",
+                    "Clave": "cinepolis-la-florida"
+                }
+            ],
+            "Nombre": "Acayucan",
+            "Clave": "acayucan",
+            "GeoX": "17.9487",
+            "GeoY": "-94.9149"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Aguascalientes",
+                    "Clave": "cinepolis-aguascalientes"
+                },
+                {
+                    "Nombre": "Cinépolis Altaria",
+                    "Clave": "cinepolis-altaria"
+                },
+                {
+                    "Nombre": "Cinépolis Espacio Aguascalientes",
+                    "Clave": "cinepolis-espacio-aguascalientes"
+                },
+                {
+                    "Nombre": "Cinépolis Sur Aguascalientes",
+                    "Clave": "cinepolis-sur-aguascalientes"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Altaria",
+                    "Clave": "cinepolis-vip-altaria"
+                }
+            ],
+            "Nombre": "Aguascalientes",
+            "Clave": "aguascalientes",
+            "GeoX": "21.8891038",
+            "GeoY": "-102.2928509"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Comercial Apizaco",
+                    "Clave": "cinepolis-plaza-comercial-apizaco"
+                }
+            ],
+            "Nombre": "Apizaco",
+            "Clave": "apizaco",
+            "GeoX": "19.4595",
+            "GeoY": "-98.0837"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Metropolitana Autlán",
+                    "Clave": "cinepolis-galerias-metropolitana-autlan"
+                }
+            ],
+            "Nombre": "Autlán de Navarro",
+            "Clave": "autlan-de-navarro",
+            "GeoX": "19.7671",
+            "GeoY": "-104.366"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Patio Los Cabos",
+                    "Clave": "cinepolis-patio-los-cabos"
+                }
+            ],
+            "Nombre": "Cabo San Lucas",
+            "Clave": "cabo-san-lucas",
+            "GeoX": "22.8933234",
+            "GeoY": "-109.9327924"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Cadereyta",
+                    "Clave": "cinepolis-plaza-cadereyta"
+                }
+            ],
+            "Nombre": "Cadereyta",
+            "Clave": "cadereyta",
+            "GeoX": "25.5934201",
+            "GeoY": "-99.9901032"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Campeche",
+                    "Clave": "cinepolis-galerias-campeche"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Campeche",
+                    "Clave": "cinepolis-vip-galerias-campeche"
+                }
+            ],
+            "Nombre": "Campeche",
+            "Clave": "campeche",
+            "GeoX": "19.8305990",
+            "GeoY": "-90.5500846"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Cancún Mall",
+                    "Clave": "cinepolis-cancun-mall"
+                },
+                {
+                    "Nombre": "Cinépolis La Gran Plaza Cancún",
+                    "Clave": "cinepolis-la-gran-plaza-cancun"
+                },
+                {
+                    "Nombre": "Cinépolis Las Tiendas Cancún",
+                    "Clave": "cinepolis-las-tiendas-cancun"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Las Américas",
+                    "Clave": "cinepolis-plaza-las-americas"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Plaza Las Américas",
+                    "Clave": "cinepolis-vip-plaza-las-americas"
+                }
+            ],
+            "Nombre": "Cancún",
+            "Clave": "cancun",
+            "GeoX": "21.1221114",
+            "GeoY": "-86.8273416"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Ciudad Acuña",
+                    "Clave": "cinepolis-ciudad-acuna"
+                }
+            ],
+            "Nombre": "Cd. Acuña",
+            "Clave": "cd-acuna",
+            "GeoX": "29.3183986",
+            "GeoY": "-100.9325249"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Cuauhtémoc",
+                    "Clave": "cinepolis-cuauhtemoc"
+                }
+            ],
+            "Nombre": "Cd. Cuauhtémoc",
+            "Clave": "cd-cuauhtemoc",
+            "GeoX": "28.4135589",
+            "GeoY": "-106.8567043"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis VIP Zentralia",
+                    "Clave": "cinepolis-vip-zentralia"
+                },
+                {
+                    "Nombre": "Cinépolis Zentralia",
+                    "Clave": "cinepolis-zentralia"
+                }
+            ],
+            "Nombre": "Cd. del Carmen",
+            "Clave": "cd-del-carmen",
+            "GeoX": "18.643333",
+            "GeoY": "-91.830833"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza San Francisco",
+                    "Clave": "cinepolis-plaza-san-francisco"
+                }
+            ],
+            "Nombre": "Cd. Hidalgo",
+            "Clave": "cd-hidalgo",
+            "GeoX": "19.6931426",
+            "GeoY": "-100.5552515"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Gran Patio Zaragoza",
+                    "Clave": "cinepolis-gran-patio-zaragoza"
+                },
+                {
+                    "Nombre": "Cinépolis Las Misiones",
+                    "Clave": "cinepolis-las-misiones"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Sendero Las Torres",
+                    "Clave": "cinepolis-plaza-sendero-las-torres"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Ciudad Juárez",
+                    "Clave": "cinepolis-sendero-ciudad-juarez"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Las Misiones",
+                    "Clave": "cinepolis-vip-las-misiones"
+                }
+            ],
+            "Nombre": "Cd. Juárez",
+            "Clave": "cd-juarez",
+            "GeoX": "31.7509285",
+            "GeoY": "-106.4884676"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Centro Tepozán",
+                    "Clave": "cinepolis-centro-tepozan"
+                },
+                {
+                    "Nombre": "Cinépolis Nezahualcóyotl",
+                    "Clave": "cinepolis-nezahualcoyotl"
+                },
+                {
+                    "Nombre": "Cinépolis Nezahualcóyotl Norte",
+                    "Clave": "cinepolis-nezahualcoyotl-norte"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Aragón",
+                    "Clave": "cinepolis-plaza-aragon"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Telmex",
+                    "Clave": "cinepolis-plaza-telmex"
+                }
+            ],
+            "Nombre": "Cd. Nezahualcóyotl",
+            "Clave": "cd-nezahualcoyotl",
+            "GeoX": "19.405178613915442",
+            "GeoY": "-99.02560291884765"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Bella Vista",
+                    "Clave": "cinepolis-bella-vista"
+                }
+            ],
+            "Nombre": "Cd. Obregón",
+            "Clave": "cd-obregon",
+            "GeoX": "27.4621031",
+            "GeoY": "-109.9399423"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Campestre",
+                    "Clave": "cinepolis-plaza-campestre"
+                }
+            ],
+            "Nombre": "Cd. Victoria",
+            "Clave": "cd-victoria",
+            "GeoX": "23.7358738",
+            "GeoY": "-99.1442161"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Bucareli",
+                    "Clave": "cinepolis-bucareli"
+                },
+                {
+                    "Nombre": "Cinépolis Diana",
+                    "Clave": "cinepolis-diana"
+                },
+                {
+                    "Nombre": "Cinépolis Fórum Buenavista",
+                    "Clave": "cinepolis-forum-buenavista"
+                }
+            ],
+            "Nombre": "CDMX Centro",
+            "Clave": "cdmx-centro",
+            "GeoX": "19.436495353824196",
+            "GeoY": "-99.15728651855466"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Azcapotzalco",
+                    "Clave": "cinepolis-azcapotzalco"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Atizapán",
+                    "Clave": "cinepolis-galerias-atizapan"
+                },
+                {
+                    "Nombre": "Cinépolis La Cúspide",
+                    "Clave": "cinepolis-la-cuspide"
+                },
+                {
+                    "Nombre": "Cinépolis Multiplaza Arboledas",
+                    "Clave": "cinepolis-multiplaza-arboledas"
+                },
+                {
+                    "Nombre": "Cinépolis Pabellón Río de los Remedios",
+                    "Clave": "cinepolis-pabellon-rio-de-los-remedios"
+                },
+                {
+                    "Nombre": "Cinépolis Pedregal Atizapán",
+                    "Clave": "cinepolis-pedregal-atizapan"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Cañada",
+                    "Clave": "cinepolis-plaza-canada"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Parque Jardín",
+                    "Clave": "cinepolis-plaza-parque-jardin"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Satélite",
+                    "Clave": "cinepolis-plaza-satelite"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Tepeyac",
+                    "Clave": "cinepolis-plaza-tepeyac"
+                },
+                {
+                    "Nombre": "Cinépolis Punto Atizapán",
+                    "Clave": "cinepolis-punto-atizapan"
+                },
+                {
+                    "Nombre": "Cinépolis Torres Lindavista",
+                    "Clave": "cinepolis-torres-lindavista"
+                },
+                {
+                    "Nombre": "Cinépolis Town Center El Rosario",
+                    "Clave": "cinepolis-town-center-el-rosario"
+                },
+                {
+                    "Nombre": "Cinépolis Town Center Nicolás Romero",
+                    "Clave": "cinepolis-town-center-nicolas-romero"
+                },
+                {
+                    "Nombre": "Cinépolis Vía Vallejo",
+                    "Clave": "cinepolis-via-vallejo"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Atizapán",
+                    "Clave": "cinepolis-vip-galerias-atizapan"
+                },
+                {
+                    "Nombre": "Cinépolis VIP La Cúspide",
+                    "Clave": "cinepolis-vip-la-cuspide"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Via Vallejo",
+                    "Clave": "cinepolis-vip-via-vallejo"
+                }
+            ],
+            "Nombre": "CDMX Norte",
+            "Clave": "cdmx-norte",
+            "GeoX": "19.527561539237276",
+            "GeoY": "-99.25661235311584"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Ermita",
+                    "Clave": "cinepolis-ermita"
+                },
+                {
+                    "Nombre": "Cinépolis Gran Patio Texcoco",
+                    "Clave": "cinepolis-gran-patio-texcoco"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Aeropuerto",
+                    "Clave": "cinepolis-plaza-aeropuerto"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Central",
+                    "Clave": "cinepolis-plaza-central"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Oriente",
+                    "Clave": "cinepolis-plaza-oriente"
+                },
+                {
+                    "Nombre": "Cinépolis Portal Churubusco",
+                    "Clave": "cinepolis-portal-churubusco"
+                }
+            ],
+            "Nombre": "CDMX Oriente",
+            "Clave": "cdmx-oriente",
+            "GeoX": "19.38712497262813",
+            "GeoY": "-99.08228430050661"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Hollywood",
+                    "Clave": "cinepolis-hollywood"
+                },
+                {
+                    "Nombre": "Cinépolis Interlomas",
+                    "Clave": "cinepolis-interlomas"
+                },
+                {
+                    "Nombre": "Cinépolis Parque Toreo",
+                    "Clave": "cinepolis-parque-toreo"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo Arcos Bosques",
+                    "Clave": "cinepolis-paseo-arcos-bosques"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo Interlomas",
+                    "Clave": "cinepolis-paseo-interlomas"
+                },
+                {
+                    "Nombre": "Cinépolis Patio Santa Fe",
+                    "Clave": "cinepolis-patio-santa-fe"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Carso",
+                    "Clave": "cinepolis-plaza-carso"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Interlomas",
+                    "Clave": "cinepolis-vip-interlomas"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Miyana Polanco",
+                    "Clave": "cinepolis-vip-miyana-polanco"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Parque Toreo",
+                    "Clave": "cinepolis-vip-parque-toreo"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Paseo Arcos Bosques",
+                    "Clave": "cinepolis-vip-paseo-arcos-bosques"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Paseo Interlomas",
+                    "Clave": "cinepolis-vip-paseo-interlomas"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Plaza Carso",
+                    "Clave": "cinepolis-vip-plaza-carso"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Samara",
+                    "Clave": "cinepolis-vip-samara"
+                }
+            ],
+            "Nombre": "CDMX Poniente",
+            "Clave": "cdmx-poniente",
+            "GeoX": "19.401566619173412",
+            "GeoY": "-99.27701050316466"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Ajusco",
+                    "Clave": "cinepolis-ajusco"
+                },
+                {
+                    "Nombre": "Cinépolis Miramontes",
+                    "Clave": "cinepolis-miramontes"
+                },
+                {
+                    "Nombre": "Cinépolis Oasis Coyoacán",
+                    "Clave": "cinepolis-oasis-coyoacan"
+                },
+                {
+                    "Nombre": "Cinépolis Pabellón Cuemanco",
+                    "Clave": "cinepolis-pabellon-cuemanco"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo Acoxpa",
+                    "Clave": "cinepolis-paseo-acoxpa"
+                },
+                {
+                    "Nombre": "Cinépolis Patio Universidad",
+                    "Clave": "cinepolis-patio-universidad"
+                },
+                {
+                    "Nombre": "Cinépolis Perisur",
+                    "Clave": "cinepolis-perisur"
+                },
+                {
+                    "Nombre": "Cinépolis Universidad",
+                    "Clave": "cinepolis-universidad"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Oasis Coyoacán",
+                    "Clave": "cinepolis-vip-oasis-coyoacan"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Perisur",
+                    "Clave": "cinepolis-vip-perisur"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Universidad",
+                    "Clave": "cinepolis-vip-universidad"
+                }
+            ],
+            "Nombre": "CDMX Sur",
+            "Clave": "cdmx-sur",
+            "GeoX": "19.304109394003483",
+            "GeoY": "-99.16167120661925"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Escala Celaya (Las Américas)",
+                    "Clave": "cinepolis-escala-celaya-las-americas"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Celaya",
+                    "Clave": "cinepolis-galerias-celaya"
+                },
+                {
+                    "Nombre": "Cinépolis Parque Celaya",
+                    "Clave": "cinepolis-parque-celaya"
+                }
+            ],
+            "Nombre": "Celaya",
+            "Clave": "celaya",
+            "GeoX": "20.5285905",
+            "GeoY": "-100.8182225"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Patio Ayotla",
+                    "Clave": "cinepolis-patio-ayotla"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Ixtapaluca",
+                    "Clave": "cinepolis-sendero-ixtapaluca"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Valle de Chalco",
+                    "Clave": "cinepolis-sendero-valle-de-chalco"
+                }
+            ],
+            "Nombre": "Chalco - Ixtapaluca",
+            "Clave": "chalco-ixtapaluca",
+            "GeoX": "19.29082384142571",
+            "GeoY": "-98.89409284731448"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Las Américas",
+                    "Clave": "cinepolis-las-americas"
+                }
+            ],
+            "Nombre": "Chetumal",
+            "Clave": "chetumal",
+            "GeoX": "18.5213544",
+            "GeoY": "-88.3076639"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Chihuahua Av. Vallarta",
+                    "Clave": "cinepolis-chihuahua-av-vallarta"
+                },
+                {
+                    "Nombre": "Cinépolis Fashion Mall",
+                    "Clave": "cinepolis-fashion-mall"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Fashion Mall",
+                    "Clave": "cinepolis-vip-fashion-mall"
+                }
+            ],
+            "Nombre": "Chihuahua",
+            "Clave": "chihuahua",
+            "GeoX": "28.6658475",
+            "GeoY": "-106.0641978"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Chilpancingo",
+                    "Clave": "cinepolis-galerias-chilpancingo"
+                }
+            ],
+            "Nombre": "Chilpancingo",
+            "Clave": "chilpancingo",
+            "GeoX": "17.5515346",
+            "GeoY": "-99.5006322"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Chimalhuacán",
+                    "Clave": "cinepolis-plaza-chimalhuacan"
+                }
+            ],
+            "Nombre": "Chimalhuacán",
+            "Clave": "chimalhuacan",
+            "GeoX": "19.430770559358763",
+            "GeoY": "-98.93368290961917"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis La Plazoleta",
+                    "Clave": "cinepolis-la-plazoleta"
+                }
+            ],
+            "Nombre": "Ciénega de Flores",
+            "Clave": "cienega-de-flores",
+            "GeoX": "25.9576320",
+            "GeoY": "-100.1695252"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Coacalco",
+                    "Clave": "cinepolis-coacalco"
+                },
+                {
+                    "Nombre": "Cinépolis Coacalco Power Center",
+                    "Clave": "cinepolis-coacalco-power-center"
+                },
+                {
+                    "Nombre": "Cinépolis Cosmopol",
+                    "Clave": "cinepolis-cosmopol"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Cosmopol",
+                    "Clave": "cinepolis-vip-cosmopol"
+                },
+                {
+                    "Nombre": "Cinépolis Zentralia Coacalco",
+                    "Clave": "cinepolis-zentralia-coacalco"
+                }
+            ],
+            "Nombre": "Coacalco",
+            "Clave": "coacalco",
+            "GeoX": "19.636143256178492",
+            "GeoY": "-99.0944263745605"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis El Dorado Coatzacoalcos",
+                    "Clave": "cinepolis-el-dorado-coatzacoalcos"
+                },
+                {
+                    "Nombre": "Cinépolis Patio Coatzacoalcos",
+                    "Clave": "cinepolis-patio-coatzacoalcos"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Coatzacoalcos",
+                    "Clave": "cinepolis-sendero-coatzacoalcos"
+                }
+            ],
+            "Nombre": "Coatzacoalcos",
+            "Clave": "coatzacoalcos",
+            "GeoX": "18.1129306",
+            "GeoY": "-94.4645033"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis San Fernando",
+                    "Clave": "cinepolis-san-fernando"
+                },
+                {
+                    "Nombre": "Cinépolis Zentralia",
+                    "Clave": "cinepolis-zentralia"
+                }
+            ],
+            "Nombre": "Colima",
+            "Clave": "colima",
+            "GeoX": "19.2465578",
+            "GeoY": "-103.7286585"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Comalcalco",
+                    "Clave": "cinepolis-comalcalco"
+                }
+            ],
+            "Nombre": "Comalcalco",
+            "Clave": "comalcalco",
+            "GeoX": "18.2658024",
+            "GeoY": "-93.2222326"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Las Flores Comitán",
+                    "Clave": "cinepolis-plaza-las-flores-comitan"
+                }
+            ],
+            "Nombre": "Comitán",
+            "Clave": "comitan",
+            "GeoX": "16.2436147",
+            "GeoY": "-92.1235424"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Shangri-La",
+                    "Clave": "cinepolis-plaza-shangri-la"
+                }
+            ],
+            "Nombre": "Córdoba",
+            "Clave": "cordoba",
+            "GeoX": "18.8893074",
+            "GeoY": "-96.9401004"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Cozumel",
+                    "Clave": "cinepolis-cozumel"
+                }
+            ],
+            "Nombre": "Cozumel",
+            "Clave": "cozumel",
+            "GeoX": "20.4322308",
+            "GeoY": "-86.8742180"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Cuautla",
+                    "Clave": "cinepolis-cuautla"
+                }
+            ],
+            "Nombre": "Cuautla",
+            "Clave": "cuautla",
+            "GeoX": "18.8340752",
+            "GeoY": "-98.9344986"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Cuernavaca",
+                    "Clave": "cinepolis-cuernavaca"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Cuernavaca",
+                    "Clave": "cinepolis-vip-cuernavaca"
+                }
+            ],
+            "Nombre": "Cuernavaca",
+            "Clave": "cuernavaca",
+            "GeoX": "18.9316355",
+            "GeoY": "-99.2405376"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Culiacán",
+                    "Clave": "cinepolis-culiacan"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo San Isidro",
+                    "Clave": "cinepolis-paseo-san-isidro"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Culiacán",
+                    "Clave": "cinepolis-vip-culiacan"
+                }
+            ],
+            "Nombre": "Culiacán",
+            "Clave": "culiacan",
+            "GeoX": "24.8049384",
+            "GeoY": "-107.4233141"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Paseo Cunduacán",
+                    "Clave": "cinepolis-paseo-cunduacan"
+                }
+            ],
+            "Nombre": "Cunduacán",
+            "Clave": "cunduacan",
+            "GeoX": "18.067222",
+            "GeoY": "-93.175556"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Paseo Dolores",
+                    "Clave": "cinepolis-paseo-dolores"
+                }
+            ],
+            "Nombre": "Dolores Hidalgo",
+            "Clave": "dolores-hidalgo",
+            "GeoX": "21.158333",
+            "GeoY": "-100.933333"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Chedraui Durango",
+                    "Clave": "cinepolis-chedraui-durango"
+                },
+                {
+                    "Nombre": "Cinépolis Durango",
+                    "Clave": "cinepolis-durango"
+                }
+            ],
+            "Nombre": "Durango",
+            "Clave": "durango",
+            "GeoX": "24.0289773",
+            "GeoY": "-104.6452930"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Ecatepec",
+                    "Clave": "cinepolis-ecatepec"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Ecatepec",
+                    "Clave": "cinepolis-sendero-ecatepec"
+                }
+            ],
+            "Nombre": "Ecatepec",
+            "Clave": "ecatepec",
+            "GeoX": "19.601840993368928",
+            "GeoY": "-99.05067439999999"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Emiliano Zapata",
+                    "Clave": "cinepolis-plaza-emiliano-zapata"
+                }
+            ],
+            "Nombre": "Emiliano Zapata",
+            "Clave": "emiliano-zapata",
+            "GeoX": "18.8379659",
+            "GeoY": "-99.1837726"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Macroplaza del Mar",
+                    "Clave": "cinepolis-macroplaza-del-mar"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Marina",
+                    "Clave": "cinepolis-plaza-marina"
+                }
+            ],
+            "Nombre": "Ensenada",
+            "Clave": "ensenada",
+            "GeoX": "31.8369683",
+            "GeoY": "-116.6040284"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Alameda Guadalajara",
+                    "Clave": "cinepolis-alameda-guadalajara"
+                },
+                {
+                    "Nombre": "Cinépolis La Normal",
+                    "Clave": "cinepolis-la-normal"
+                },
+                {
+                    "Nombre": "Cinépolis Tolsá",
+                    "Clave": "cinepolis-tolsa"
+                }
+            ],
+            "Nombre": "Guadalajara Centro",
+            "Clave": "guadalajara-centro",
+            "GeoX": "20.686856534395762",
+            "GeoY": "-103.34394831000367"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Independencia",
+                    "Clave": "cinepolis-independencia"
+                },
+                {
+                    "Nombre": "Cinépolis Oblatos",
+                    "Clave": "cinepolis-oblatos"
+                },
+                {
+                    "Nombre": "Cinépolis Punto Oriente",
+                    "Clave": "cinepolis-punto-oriente"
+                }
+            ],
+            "Nombre": "Guadalajara Norte",
+            "Clave": "guadalajara-norte",
+            "GeoX": "20.704728520860577",
+            "GeoY": "-103.30720541511232"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Gran Terraza Belenes",
+                    "Clave": "cinepolis-gran-terraza-belenes"
+                },
+                {
+                    "Nombre": "Cinépolis Pabellón",
+                    "Clave": "cinepolis-pabellon"
+                },
+                {
+                    "Nombre": "Cinépolis Real Center",
+                    "Clave": "cinepolis-real-center"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Andares",
+                    "Clave": "cinepolis-vip-andares"
+                }
+            ],
+            "Nombre": "Guadalajara Norte - Poniente",
+            "Clave": "guadalajara-norte-poniente",
+            "GeoX": "20.73500431223775",
+            "GeoY": "-103.41289546597591"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Fórum Tlaquepaque",
+                    "Clave": "cinepolis-forum-tlaquepaque"
+                },
+                {
+                    "Nombre": "Cinépolis Multicenter El Salto",
+                    "Clave": "cinepolis-multicenter-el-salto"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Río Nilo",
+                    "Clave": "cinepolis-plaza-rio-nilo"
+                }
+            ],
+            "Nombre": "Guadalajara Oriente",
+            "Clave": "guadalajara-oriente",
+            "GeoX": "20.644725319034578",
+            "GeoY": "-103.29373587595217"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Arboledas",
+                    "Clave": "cinepolis-arboledas"
+                },
+                {
+                    "Nombre": "Cinépolis Centro Magno",
+                    "Clave": "cinepolis-centro-magno"
+                },
+                {
+                    "Nombre": "Cinépolis Ciudadela Lifestyle Center",
+                    "Clave": "cinepolis-ciudadela-lifestyle-center"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías",
+                    "Clave": "cinepolis-galerias"
+                },
+                {
+                    "Nombre": "Cinépolis La Gran Plaza",
+                    "Clave": "cinepolis-la-gran-plaza"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías",
+                    "Clave": "cinepolis-vip-galerias"
+                }
+            ],
+            "Nombre": "Guadalajara Poniente",
+            "Clave": "guadalajara-poniente",
+            "GeoX": "20.66878719427949",
+            "GeoY": "-103.40571591754451"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Centro Sur",
+                    "Clave": "cinepolis-centro-sur"
+                },
+                {
+                    "Nombre": "Cinépolis Las Torres",
+                    "Clave": "cinepolis-las-torres"
+                },
+                {
+                    "Nombre": "Cinépolis Santa Anita La Rioja",
+                    "Clave": "cinepolis-santa-anita-la-rioja"
+                }
+            ],
+            "Nombre": "Guadalajara Sur",
+            "Clave": "guadalajara-sur",
+            "GeoX": "20.622780024709275",
+            "GeoY": "-103.38409983483888"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Mall Hermosillo",
+                    "Clave": "cinepolis-galerias-mall-hermosillo"
+                },
+                {
+                    "Nombre": "Cinépolis Hermosillo",
+                    "Clave": "cinepolis-hermosillo"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Hermosillo",
+                    "Clave": "cinepolis-sendero-hermosillo"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Mall Hermosillo",
+                    "Clave": "cinepolis-vip-galerias-mall-hermosillo"
+                }
+            ],
+            "Nombre": "Hermosillo",
+            "Clave": "hermosillo",
+            "GeoX": "29.0785125",
+            "GeoY": "-110.9793706"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Escala Parral",
+                    "Clave": "cinepolis-escala-parral"
+                }
+            ],
+            "Nombre": "Hidalgo del Parral",
+            "Clave": "hidalgo-del-parral",
+            "GeoX": "26.9341800",
+            "GeoY": "-105.6734072"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Tamarindos",
+                    "Clave": "cinepolis-galerias-tamarindos"
+                }
+            ],
+            "Nombre": "Iguala",
+            "Clave": "iguala",
+            "GeoX": "18.3497435",
+            "GeoY": "-99.5410921"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Cibeles",
+                    "Clave": "cinepolis-plaza-cibeles"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Plaza Cibeles Irapuato",
+                    "Clave": "cinepolis-vip-plaza-cibeles-irapuato"
+                }
+            ],
+            "Nombre": "Irapuato",
+            "Clave": "irapuato",
+            "GeoX": "20.6776493",
+            "GeoY": "-101.3497703"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Los Cedros Jiutepec",
+                    "Clave": "cinepolis-los-cedros-jiutepec"
+                }
+            ],
+            "Nombre": "Jiutepec",
+            "Clave": "jiutepec",
+            "GeoX": "18.881389",
+            "GeoY": "-99.177778"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Jojutla",
+                    "Clave": "cinepolis-jojutla"
+                }
+            ],
+            "Nombre": "Jojutla",
+            "Clave": "jojutla",
+            "GeoX": "18.6155561",
+            "GeoY": "-99.1787561"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis La Paz",
+                    "Clave": "cinepolis-la-paz"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo La Paz",
+                    "Clave": "cinepolis-paseo-la-paz"
+                },
+                {
+                    "Nombre": "Cinépolis The Shoppes",
+                    "Clave": "cinepolis-the-shoppes"
+                }
+            ],
+            "Nombre": "La Paz",
+            "Clave": "la-paz",
+            "GeoX": "24.1164873",
+            "GeoY": "-110.3032952"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis La Piedad",
+                    "Clave": "cinepolis-la-piedad"
+                }
+            ],
+            "Nombre": "La Piedad",
+            "Clave": "la-piedad",
+            "GeoX": "20.3369900",
+            "GeoY": "-102.0224000"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Las Américas",
+                    "Clave": "cinepolis-las-americas"
+                }
+            ],
+            "Nombre": "Lázaro Cárdenas",
+            "Clave": "lazaro-cardenas",
+            "GeoX": "17.9551785",
+            "GeoY": "-102.1954626"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Centro Comercial Altacia",
+                    "Clave": "cinepolis-centro-comercial-altacia"
+                },
+                {
+                    "Nombre": "Cinépolis Centro Max",
+                    "Clave": "cinepolis-centro-max"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Las Torres",
+                    "Clave": "cinepolis-galerias-las-torres"
+                },
+                {
+                    "Nombre": "Cinépolis La Gran Plaza",
+                    "Clave": "cinepolis-la-gran-plaza"
+                },
+                {
+                    "Nombre": "Cinépolis León",
+                    "Clave": "cinepolis-leon"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Centro Comercial Altacia",
+                    "Clave": "cinepolis-vip-centro-comercial-altacia"
+                }
+            ],
+            "Nombre": "León",
+            "Clave": "leon",
+            "GeoX": "21.1217221",
+            "GeoY": "-101.6641150"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Altea Linares",
+                    "Clave": "cinepolis-altea-linares"
+                }
+            ],
+            "Nombre": "Linares",
+            "Clave": "linares",
+            "GeoX": "24.858942094020854",
+            "GeoY": "-99.56596242228999"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Chedrahui Macuspana",
+                    "Clave": "cinepolis-chedrahui-macuspana"
+                }
+            ],
+            "Nombre": "Macuspana",
+            "Clave": "macuspana",
+            "GeoX": "17.760474239773526",
+            "GeoY": "-92.5941268296387"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Salagua",
+                    "Clave": "cinepolis-salagua"
+                }
+            ],
+            "Nombre": "Manzanillo",
+            "Clave": "manzanillo",
+            "GeoX": "19.1139793",
+            "GeoY": "-104.3375321"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Chedraui Martínez de la Torre",
+                    "Clave": "cinepolis-chedraui-martinez-de-la-torre"
+                }
+            ],
+            "Nombre": "Martínez de la Torre",
+            "Clave": "martinez-de-la-torre",
+            "GeoX": "17.383333275455524",
+            "GeoY": "-95.18333329999996"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Fiesta",
+                    "Clave": "cinepolis-plaza-fiesta"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Matamoros",
+                    "Clave": "cinepolis-sendero-matamoros"
+                }
+            ],
+            "Nombre": "Matamoros",
+            "Clave": "matamoros",
+            "GeoX": "25.8695005",
+            "GeoY": "-97.5030259"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Gran Plaza Mazatlán",
+                    "Clave": "cinepolis-gran-plaza-mazatlan"
+                },
+                {
+                    "Nombre": "Cinépolis Santa Rosa",
+                    "Clave": "cinepolis-santa-rosa"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Mazatlán",
+                    "Clave": "cinepolis-sendero-mazatlan"
+                }
+            ],
+            "Nombre": "Mazatlán",
+            "Clave": "mazatlan",
+            "GeoX": "23.2345023",
+            "GeoY": "-106.4169709"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Las Américas",
+                    "Clave": "cinepolis-las-americas"
+                },
+                {
+                    "Nombre": "Cinépolis Mérida Altabrisa",
+                    "Clave": "cinepolis-merida-altabrisa"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Kukulcán",
+                    "Clave": "cinepolis-plaza-kukulcan"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Mérida",
+                    "Clave": "cinepolis-sendero-merida"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Mérida Altabrisa",
+                    "Clave": "cinepolis-vip-merida-altabrisa"
+                }
+            ],
+            "Nombre": "Mérida",
+            "Clave": "merida",
+            "GeoX": "20.9710130",
+            "GeoY": "-89.6283540"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Centro Cívico",
+                    "Clave": "cinepolis-centro-civico"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías del Valle",
+                    "Clave": "cinepolis-galerias-del-valle"
+                },
+                {
+                    "Nombre": "Cinépolis Nuevo Mexicali",
+                    "Clave": "cinepolis-nuevo-mexicali"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Centenario",
+                    "Clave": "cinepolis-plaza-centenario"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza San Pedro Mexicali",
+                    "Clave": "cinepolis-plaza-san-pedro-mexicali"
+                }
+            ],
+            "Nombre": "Mexicali",
+            "Clave": "mexicali",
+            "GeoX": "32.6140823",
+            "GeoY": "-115.4490936"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Minatitlán",
+                    "Clave": "cinepolis-plaza-minatitlan"
+                }
+            ],
+            "Nombre": "Minatitlán",
+            "Clave": "minatitlan",
+            "GeoX": "18.0024171",
+            "GeoY": "-94.5504911"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Paseo Fundadores",
+                    "Clave": "cinepolis-paseo-fundadores"
+                }
+            ],
+            "Nombre": "Montemorelos",
+            "Clave": "montemorelos",
+            "GeoX": "25.1552",
+            "GeoY": "-99.9127"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Adana Lincoln",
+                    "Clave": "cinepolis-adana-lincoln"
+                },
+                {
+                    "Nombre": "Cinépolis Cumbres Monterrey",
+                    "Clave": "cinepolis-cumbres-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis Patio Lincoln (Sendero Lincoln)",
+                    "Clave": "cinepolis-patio-lincoln-sendero-lincoln"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Cumbres",
+                    "Clave": "cinepolis-vip-cumbres"
+                }
+            ],
+            "Nombre": "Monterrey (Cumbres)",
+            "Clave": "monterrey-cumbres",
+            "GeoX": "25.751975317206206",
+            "GeoY": "-100.39315569233395"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Interplaza Monterrey",
+                    "Clave": "cinepolis-interplaza-monterrey"
+                }
+            ],
+            "Nombre": "Monterrey Centro",
+            "Clave": "monterrey-centro",
+            "GeoX": "25.668055174362408",
+            "GeoY": "-100.31506981376953"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Citadel",
+                    "Clave": "cinepolis-citadel"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo La Fe",
+                    "Clave": "cinepolis-paseo-la-fe"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Apodaca",
+                    "Clave": "cinepolis-sendero-apodaca"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero la Fe",
+                    "Clave": "cinepolis-sendero-la-fe"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Paseo La Fe",
+                    "Clave": "cinepolis-vip-paseo-la-fe"
+                }
+            ],
+            "Nombre": "Monterrey Norte",
+            "Clave": "monterrey-norte",
+            "GeoX": "25.754045753966864",
+            "GeoY": "-100.22562242370606"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Pablo Livas",
+                    "Clave": "cinepolis-pablo-livas"
+                },
+                {
+                    "Nombre": "Cinépolis San Roque",
+                    "Clave": "cinepolis-san-roque"
+                },
+                {
+                    "Nombre": "Cinépolis Valle Soleado",
+                    "Clave": "cinepolis-valle-soleado"
+                }
+            ],
+            "Nombre": "Monterrey Oriente",
+            "Clave": "monterrey-oriente",
+            "GeoX": "25.6918808768726",
+            "GeoY": "-100.17784331314999"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Sendero Monterrey",
+                    "Clave": "cinepolis-sendero-monterrey"
+                }
+            ],
+            "Nombre": "Monterrey Sendero",
+            "Clave": "monterrey-sendero",
+            "GeoX": "25.768230407348774",
+            "GeoY": "-100.30369462969975"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Esfera Monterrey",
+                    "Clave": "cinepolis-esfera-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Monterrey",
+                    "Clave": "cinepolis-galerias-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Valle Oriente",
+                    "Clave": "cinepolis-galerias-valle-oriente"
+                },
+                {
+                    "Nombre": "Cinépolis Garza Sada",
+                    "Clave": "cinepolis-garza-sada"
+                },
+                {
+                    "Nombre": "Cinépolis Nuevo Sur",
+                    "Clave": "cinepolis-nuevo-sur"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Avanta Gardens",
+                    "Clave": "cinepolis-vip-avanta-gardens"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Esfera Monterrey",
+                    "Clave": "cinepolis-vip-esfera-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Monterrey",
+                    "Clave": "cinepolis-vip-galerias-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Valle Oriente",
+                    "Clave": "cinepolis-vip-galerias-valle-oriente"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Nuevo Sur",
+                    "Clave": "cinepolis-vip-nuevo-sur"
+                }
+            ],
+            "Nombre": "Monterrey Sur",
+            "Clave": "monterrey-sur",
+            "GeoX": "25.645214478886615",
+            "GeoY": "-100.30482657008054"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Escala La Huerta",
+                    "Clave": "cinepolis-escala-la-huerta"
+                },
+                {
+                    "Nombre": "Cinépolis Escala Morelia (Plaza Morelia)",
+                    "Clave": "cinepolis-escala-morelia-plaza-morelia"
+                },
+                {
+                    "Nombre": "Cinépolis Espacio Las Américas",
+                    "Clave": "cinepolis-espacio-las-americas"
+                },
+                {
+                    "Nombre": "Cinépolis Morelia Centro",
+                    "Clave": "cinepolis-morelia-centro"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza El Prado Tarímbaro",
+                    "Clave": "cinepolis-plaza-el-prado-tarimbaro"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Las Américas Morelia",
+                    "Clave": "cinepolis-vip-las-americas-morelia"
+                }
+            ],
+            "Nombre": "Morelia",
+            "Clave": "morelia",
+            "GeoX": "19.7023573",
+            "GeoY": "-101.1986150"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Nogales Mall",
+                    "Clave": "cinepolis-nogales-mall"
+                }
+            ],
+            "Nombre": "Nogales",
+            "Clave": "nogales",
+            "GeoX": "31.2909326",
+            "GeoY": "-110.9453565"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Paseo Reforma",
+                    "Clave": "cinepolis-paseo-reforma"
+                }
+            ],
+            "Nombre": "Nuevo  Laredo",
+            "Clave": "nuevo-laredo",
+            "GeoX": "27.4761119",
+            "GeoY": "-99.5167295"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Lago Real",
+                    "Clave": "cinepolis-lago-real"
+                }
+            ],
+            "Nombre": "Nuevo Vallarta",
+            "Clave": "nuevo-vallarta",
+            "GeoX": "20.6966083",
+            "GeoY": "-105.2918145"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Oaxaca",
+                    "Clave": "cinepolis-oaxaca"
+                }
+            ],
+            "Nombre": "Oaxaca",
+            "Clave": "oaxaca",
+            "GeoX": "17.0777885",
+            "GeoY": "-96.7284766"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Valle Orizaba",
+                    "Clave": "cinepolis-plaza-valle-orizaba"
+                },
+                {
+                    "Nombre": "Cinépolis Río Blanco",
+                    "Clave": "cinepolis-rio-blanco"
+                }
+            ],
+            "Nombre": "Orizaba",
+            "Clave": "orizaba",
+            "GeoX": "18.8461196",
+            "GeoY": "-97.1054974"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías",
+                    "Clave": "cinepolis-galerias"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Bella",
+                    "Clave": "cinepolis-plaza-bella"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Pachuca",
+                    "Clave": "cinepolis-vip-galerias-pachuca"
+                }
+            ],
+            "Nombre": "Pachuca",
+            "Clave": "pachuca",
+            "GeoX": "20.1166651",
+            "GeoY": "-98.7458512"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Crystal Paraíso",
+                    "Clave": "cinepolis-plaza-crystal-paraiso"
+                }
+            ],
+            "Nombre": "Paraíso",
+            "Clave": "paraiso",
+            "GeoX": "18.4006",
+            "GeoY": "-93.2127"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Arkana Norte",
+                    "Clave": "cinepolis-arkana-norte"
+                },
+                {
+                    "Nombre": "Cinépolis Centro Lago de Guadalupe",
+                    "Clave": "cinepolis-centro-lago-de-guadalupe"
+                },
+                {
+                    "Nombre": "Cinépolis Luna Parc",
+                    "Clave": "cinepolis-luna-parc"
+                },
+                {
+                    "Nombre": "Cinépolis Perinorte",
+                    "Clave": "cinepolis-perinorte"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Centella Cuautitlán",
+                    "Clave": "cinepolis-plaza-centella-cuautitlan"
+                },
+                {
+                    "Nombre": "Cinépolis San Miguel Izcalli",
+                    "Clave": "cinepolis-san-miguel-izcalli"
+                }
+            ],
+            "Nombre": "Perinorte - Cuautitlán",
+            "Clave": "perinorte-cuautitlan",
+            "GeoX": "19.633926913126743",
+            "GeoY": "-99.21951180100403"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Las Américas",
+                    "Clave": "cinepolis-las-americas"
+                }
+            ],
+            "Nombre": "Playa del Carmen",
+            "Clave": "playa-del-carmen",
+            "GeoX": "20.6320933",
+            "GeoY": "-87.0745676"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Angelópolis",
+                    "Clave": "cinepolis-angelopolis"
+                },
+                {
+                    "Nombre": "Cinépolis Boulevard",
+                    "Clave": "cinepolis-boulevard"
+                },
+                {
+                    "Nombre": "Cinépolis Centro Sur",
+                    "Clave": "cinepolis-centro-sur"
+                },
+                {
+                    "Nombre": "Cinépolis Cruz del Sur",
+                    "Clave": "cinepolis-cruz-del-sur"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Serdán",
+                    "Clave": "cinepolis-galerias-serdan"
+                },
+                {
+                    "Nombre": "Cinépolis La Noria",
+                    "Clave": "cinepolis-la-noria"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Crystal",
+                    "Clave": "cinepolis-plaza-crystal"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Loreto",
+                    "Clave": "cinepolis-plaza-loreto"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza San Diego",
+                    "Clave": "cinepolis-plaza-san-diego"
+                },
+                {
+                    "Nombre": "Cinépolis San Jerónimo",
+                    "Clave": "cinepolis-san-jeronimo"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Angelópolis",
+                    "Clave": "cinepolis-vip-angelopolis"
+                }
+            ],
+            "Nombre": "Puebla",
+            "Clave": "puebla",
+            "GeoX": "19.0361249",
+            "GeoY": "-98.2066989"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Puerto Vallarta",
+                    "Clave": "cinepolis-puerto-vallarta"
+                }
+            ],
+            "Nombre": "Puerto Vallarta",
+            "Clave": "puerto-vallarta",
+            "GeoX": "20.6302481",
+            "GeoY": "-105.2260955"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Antea Querétaro",
+                    "Clave": "cinepolis-antea-queretaro"
+                },
+                {
+                    "Nombre": "Cinépolis Esfera Querétaro",
+                    "Clave": "cinepolis-esfera-queretaro"
+                },
+                {
+                    "Nombre": "Cinépolis Juriquilla Uptown",
+                    "Clave": "cinepolis-juriquilla-uptown"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza del Parque",
+                    "Clave": "cinepolis-plaza-del-parque"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Querétaro",
+                    "Clave": "cinepolis-sendero-queretaro"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Antea Querétaro",
+                    "Clave": "cinepolis-vip-antea-queretaro"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Esfera Querétaro",
+                    "Clave": "cinepolis-vip-esfera-queretaro"
+                }
+            ],
+            "Nombre": "Querétaro",
+            "Clave": "queretaro",
+            "GeoX": "20.5980500",
+            "GeoY": "-100.4007591"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Del Río Plaza Comercial",
+                    "Clave": "cinepolis-del-rio-plaza-comercial"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Citadina",
+                    "Clave": "cinepolis-plaza-citadina"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Periférico",
+                    "Clave": "cinepolis-plaza-periferico"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Plaza Periférico",
+                    "Clave": "cinepolis-vip-plaza-periferico"
+                }
+            ],
+            "Nombre": "Reynosa",
+            "Clave": "reynosa",
+            "GeoX": "26.0677048",
+            "GeoY": "-98.2775927"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Pabellón Rosarito",
+                    "Clave": "cinepolis-pabellon-rosarito"
+                }
+            ],
+            "Nombre": "Rosarito",
+            "Clave": "rosarito",
+            "GeoX": "32.3591957",
+            "GeoY": "-117.0514501"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Sahuayo",
+                    "Clave": "cinepolis-sahuayo"
+                }
+            ],
+            "Nombre": "Sahuayo",
+            "Clave": "sahuayo",
+            "GeoX": "20.0587425",
+            "GeoY": "-102.7186952"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Salamanca",
+                    "Clave": "cinepolis-galerias-salamanca"
+                }
+            ],
+            "Nombre": "Salamanca",
+            "Clave": "salamanca",
+            "GeoX": "20.5689120",
+            "GeoY": "-101.1952657"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis La Nogalera",
+                    "Clave": "cinepolis-la-nogalera"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Saltillo",
+                    "Clave": "cinepolis-sendero-saltillo"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Sendero Saltillo",
+                    "Clave": "cinepolis-vip-sendero-saltillo"
+                }
+            ],
+            "Nombre": "Saltillo",
+            "Clave": "saltillo",
+            "GeoX": "25.4291987",
+            "GeoY": "-100.9907931"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis San Cristóbal",
+                    "Clave": "cinepolis-san-cristobal"
+                }
+            ],
+            "Nombre": "San Cristóbal de las Casas",
+            "Clave": "san-cristobal-de-las-casas",
+            "GeoX": "16.7342513",
+            "GeoY": "-92.6370966"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Paseo San Francisco",
+                    "Clave": "cinepolis-paseo-san-francisco"
+                }
+            ],
+            "Nombre": "San Francisco del Rincón",
+            "Clave": "san-francisco-del-rincon",
+            "GeoX": "21.020778411052863",
+            "GeoY": "-101.84990340000002"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Cabo",
+                    "Clave": "cinepolis-cabo"
+                }
+            ],
+            "Nombre": "San José del Cabo",
+            "Clave": "san-jose-del-cabo",
+            "GeoX": "23.0616485",
+            "GeoY": "-109.7094298"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Paseo del Río",
+                    "Clave": "cinepolis-paseo-del-rio"
+                }
+            ],
+            "Nombre": "San Juan del Río",
+            "Clave": "san-juan-del-rio",
+            "GeoX": "20.3884130",
+            "GeoY": "-99.9807092"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis San Luis Río Colorado",
+                    "Clave": "cinepolis-san-luis-rio-colorado"
+                }
+            ],
+            "Nombre": "San L Río Colorado",
+            "Clave": "san-l-rio-colorado",
+            "GeoX": "32.4509972",
+            "GeoY": "-114.7710505"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Citadina San Luis",
+                    "Clave": "cinepolis-plaza-citadina-san-luis"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza El Dorado",
+                    "Clave": "cinepolis-plaza-el-dorado"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Sanborns San Luis",
+                    "Clave": "cinepolis-plaza-sanborns-san-luis"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Sendero",
+                    "Clave": "cinepolis-plaza-sendero"
+                },
+                {
+                    "Nombre": "Cinépolis Tangamanga",
+                    "Clave": "cinepolis-tangamanga"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Plaza Sanborns San Luis",
+                    "Clave": "cinepolis-vip-plaza-sanborns-san-luis"
+                }
+            ],
+            "Nombre": "San Luis Potosí",
+            "Clave": "san-luis-potosi",
+            "GeoX": "22.1585804",
+            "GeoY": "-100.9711363"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Mía",
+                    "Clave": "cinepolis-plaza-mia"
+                }
+            ],
+            "Nombre": "Santiago Tianguistenco de Galeana",
+            "Clave": "santiago-tianguistenco-de-galeana",
+            "GeoX": "-99.46833333",
+            "GeoY": "19.18055556"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis La Joya",
+                    "Clave": "cinepolis-la-joya"
+                }
+            ],
+            "Nombre": "Silao",
+            "Clave": "silao",
+            "GeoX": "20.9466894",
+            "GeoY": "-101.4278470"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Tampico",
+                    "Clave": "cinepolis-tampico"
+                }
+            ],
+            "Nombre": "Tampico",
+            "Clave": "tampico",
+            "GeoX": "22.2953117",
+            "GeoY": "-97.8535255"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Tapachula",
+                    "Clave": "cinepolis-galerias-tapachula"
+                },
+                {
+                    "Nombre": "Cinépolis Tapachula",
+                    "Clave": "cinepolis-tapachula"
+                }
+            ],
+            "Nombre": "Tapachula",
+            "Clave": "tapachula",
+            "GeoX": "14.9033771",
+            "GeoY": "-92.2655814"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Las Américas Taxco",
+                    "Clave": "cinepolis-las-americas-taxco"
+                }
+            ],
+            "Nombre": "Taxco",
+            "Clave": "taxco",
+            "GeoX": "18.5556872",
+            "GeoY": "-99.6055467"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Tecámac",
+                    "Clave": "cinepolis-tecamac"
+                },
+                {
+                    "Nombre": "Cinépolis Town Center Zumpango",
+                    "Clave": "cinepolis-town-center-zumpango"
+                }
+            ],
+            "Nombre": "Tecámac",
+            "Clave": "tecamac",
+            "GeoX": "19.712889748089367",
+            "GeoY": "-98.96818966295166"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Tecate",
+                    "Clave": "cinepolis-tecate"
+                }
+            ],
+            "Nombre": "Tecate",
+            "Clave": "tecate",
+            "GeoX": "32.5654199",
+            "GeoY": "-116.6288982"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Tehuacán",
+                    "Clave": "cinepolis-tehuacan"
+                }
+            ],
+            "Nombre": "Tehuacán",
+            "Clave": "tehuacan",
+            "GeoX": "18.4672073",
+            "GeoY": "-97.4025637"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Solaz Plaza (Temixco)",
+                    "Clave": "cinepolis-solaz-plaza-temixco"
+                }
+            ],
+            "Nombre": "Temixco",
+            "Clave": "temixco",
+            "GeoX": "18.836517",
+            "GeoY": "-99.223964"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Punto La Gloria",
+                    "Clave": "cinepolis-punto-la-gloria"
+                }
+            ],
+            "Nombre": "Tepatitlán",
+            "Clave": "tepatitlan",
+            "GeoX": "20.783631",
+            "GeoY": "-102.785969"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Tepeji del Río",
+                    "Clave": "cinepolis-tepeji-del-rio"
+                }
+            ],
+            "Nombre": "Tepeji del Río",
+            "Clave": "tepeji-del-rio",
+            "GeoX": "19.9001205",
+            "GeoY": "-99.3416352"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Cantera Aguamilpa",
+                    "Clave": "cinepolis-plaza-cantera-aguamilpa"
+                }
+            ],
+            "Nombre": "Tepic",
+            "Clave": "tepic",
+            "GeoX": "21.516389",
+            "GeoY": "-104.894167"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Carrousel",
+                    "Clave": "cinepolis-carrousel"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Hipódromo",
+                    "Clave": "cinepolis-galerias-hipodromo"
+                },
+                {
+                    "Nombre": "Cinépolis La Pajarita",
+                    "Clave": "cinepolis-la-pajarita"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo 2000 Tijuana",
+                    "Clave": "cinepolis-paseo-2000-tijuana"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo Chapultepec",
+                    "Clave": "cinepolis-paseo-chapultepec"
+                },
+                {
+                    "Nombre": "Cinépolis Playas",
+                    "Clave": "cinepolis-playas"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Americana Otay",
+                    "Clave": "cinepolis-plaza-americana-otay"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Monarca",
+                    "Clave": "cinepolis-plaza-monarca"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Río",
+                    "Clave": "cinepolis-plaza-rio"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Hipódromo",
+                    "Clave": "cinepolis-vip-galerias-hipodromo"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Plaza Río",
+                    "Clave": "cinepolis-vip-plaza-rio"
+                }
+            ],
+            "Nombre": "Tijuana",
+            "Clave": "tijuana",
+            "GeoX": "32.5045567",
+            "GeoY": "-117.0127321"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Chedraui Tlajomulco",
+                    "Clave": "cinepolis-plaza-chedraui-tlajomulco"
+                }
+            ],
+            "Nombre": "Tlajomulco",
+            "Clave": "tlajomulco",
+            "GeoX": "20.47269808123809",
+            "GeoY": "-103.44823443920899"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Gran Patio Tlaxcala",
+                    "Clave": "cinepolis-gran-patio-tlaxcala"
+                }
+            ],
+            "Nombre": "Tlaxcala",
+            "Clave": "tlaxcala",
+            "GeoX": "19.3141600",
+            "GeoY": "-98.2384224"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Metepec",
+                    "Clave": "cinepolis-galerias-metepec"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Toluca",
+                    "Clave": "cinepolis-galerias-toluca"
+                },
+                {
+                    "Nombre": "Cinépolis Grand Plaza",
+                    "Clave": "cinepolis-grand-plaza"
+                },
+                {
+                    "Nombre": "Cinépolis IMAX Centro Toluca",
+                    "Clave": "cinepolis-imax-centro-toluca"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Toluca",
+                    "Clave": "cinepolis-sendero-toluca"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Metepec",
+                    "Clave": "cinepolis-vip-galerias-metepec"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Toluca",
+                    "Clave": "cinepolis-vip-galerias-toluca"
+                }
+            ],
+            "Nombre": "Toluca",
+            "Clave": "toluca",
+            "GeoX": "19.3025425",
+            "GeoY": "-99.6405654"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Las Flores",
+                    "Clave": "cinepolis-plaza-las-flores"
+                }
+            ],
+            "Nombre": "Tonalá",
+            "Clave": "tonala",
+            "GeoX": "15.88071",
+            "GeoY": "-93.52759"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Cuatro Caminos",
+                    "Clave": "cinepolis-cuatro-caminos"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Laguna",
+                    "Clave": "cinepolis-galerias-laguna"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Cuatro Caminos",
+                    "Clave": "cinepolis-vip-cuatro-caminos"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Laguna",
+                    "Clave": "cinepolis-vip-galerias-laguna"
+                }
+            ],
+            "Nombre": "Torreón",
+            "Clave": "torreon",
+            "GeoX": "25.5496527",
+            "GeoY": "-103.4222445"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Crystal Tuxpan",
+                    "Clave": "cinepolis-plaza-crystal-tuxpan"
+                }
+            ],
+            "Nombre": "Tuxpan",
+            "Clave": "tuxpan",
+            "GeoX": "20.9611481",
+            "GeoY": "-97.4069363"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Las Américas",
+                    "Clave": "cinepolis-plaza-las-americas"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Mirador",
+                    "Clave": "cinepolis-plaza-mirador"
+                },
+                {
+                    "Nombre": "Cinépolis Poliforum",
+                    "Clave": "cinepolis-poliforum"
+                }
+            ],
+            "Nombre": "Tuxtla Gutiérrez",
+            "Clave": "tuxtla-gutierrez",
+            "GeoX": "16.7460442",
+            "GeoY": "-93.1324270"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Metropolitana",
+                    "Clave": "cinepolis-galerias-metropolitana"
+                }
+            ],
+            "Nombre": "Uriangato",
+            "Clave": "uriangato",
+            "GeoX": "20.1404322",
+            "GeoY": "-101.1813474"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Uruapan",
+                    "Clave": "cinepolis-uruapan"
+                }
+            ],
+            "Nombre": "Uruapan",
+            "Clave": "uruapan",
+            "GeoX": "19.4157682",
+            "GeoY": "-102.0595498"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis El Dorado Veracruz",
+                    "Clave": "cinepolis-el-dorado-veracruz"
+                },
+                {
+                    "Nombre": "Cinépolis Las Américas",
+                    "Clave": "cinepolis-las-americas"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza del Puerto",
+                    "Clave": "cinepolis-plaza-del-puerto"
+                },
+                {
+                    "Nombre": "Cinépolis VIP El Dorado Veracruz",
+                    "Clave": "cinepolis-vip-el-dorado-veracruz"
+                }
+            ],
+            "Nombre": "Veracruz",
+            "Clave": "veracruz",
+            "GeoX": "19.1804341",
+            "GeoY": "-96.1383767"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Las Américas",
+                    "Clave": "cinepolis-las-americas"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Deportiva",
+                    "Clave": "cinepolis-plaza-deportiva"
+                },
+                {
+                    "Nombre": "Cinépolis San Joaquín",
+                    "Clave": "cinepolis-san-joaquin"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Villahermosa",
+                    "Clave": "cinepolis-sendero-villahermosa"
+                },
+                {
+                    "Nombre": "Cinépolis Villahermosa",
+                    "Clave": "cinepolis-villahermosa"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Villahermosa",
+                    "Clave": "cinepolis-vip-villahermosa"
+                }
+            ],
+            "Nombre": "Villahermosa",
+            "Clave": "villahermosa",
+            "GeoX": "17.9922022",
+            "GeoY": "-92.9328522"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Las Américas VIP Xalapa",
+                    "Clave": "cinepolis-las-americas-vip-xalapa"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Crystal",
+                    "Clave": "cinepolis-plaza-crystal"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Las Américas Xalapa",
+                    "Clave": "cinepolis-plaza-las-americas-xalapa"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Museo",
+                    "Clave": "cinepolis-plaza-museo"
+                }
+            ],
+            "Nombre": "Xalapa",
+            "Clave": "xalapa",
+            "GeoX": "19.5354339",
+            "GeoY": "-96.9100715"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Galerías Zacatecas",
+                    "Clave": "cinepolis-galerias-zacatecas"
+                }
+            ],
+            "Nombre": "Zacatecas",
+            "Clave": "zacatecas",
+            "GeoX": "22.7676396",
+            "GeoY": "-102.5873390"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Plaza Ana",
+                    "Clave": "cinepolis-plaza-ana"
+                }
+            ],
+            "Nombre": "Zamora",
+            "Clave": "zamora",
+            "GeoX": "19.9912263",
+            "GeoY": "-102.2823052"
+        }
+    ]
+}
