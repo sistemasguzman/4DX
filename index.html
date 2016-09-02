@@ -5,27 +5,19 @@
     <title></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-messages.js"></script>
+    <link rel="stylesheet" href="content/css/alertify.core.css" />
+    <link rel="stylesheet" href="content/css/alertify.bootstrap.css" />
+    <script src="content/js/alertify.min.js"></script>
 </head>
 
 <body>
     <div ng-controller="RegisterController as vm">
         <form name="userForm" novalidate>
-
-
             <div>
                 <input type="" name="" value="" ng-model="vm.user.Email" placeholder="email">
             </div>
             <div>
                 <input type="text" name="name" value="" placeholder="nombre" ng-model="vm.user.Name" ng-minlength="5" ng-maxlength="10" required>
-                <div class="help-block" ng-messages="userForm.name.$error" ng-if="userForm.name.$touched">
-                    <p ng-message="minlength">Your name is too short.</p>
-                    <p ng-message="maxlength">Your name is too long.</p>
-                    <p ng-message="required">Your name is required.</p>
-                </div>
-            </div>
-            <div>
-                <input type="text" name="description" ng-minlength="5" ng-maxlength="10" required value="" placeholder="describcion" ng-model="vm.user.Description">
             </div>
             <div>
                 <select ng-change="vm.getCinemas(vm.selectedCity.Clave)" ng-model="vm.selectedCity" ng-options="item.Nombre for color in vm.cities">
@@ -46,7 +38,6 @@
                 <table border="1">
                     <tr ng-repeat="item in vm.users">
                         <td>{{item.Name}}</td>
-                        <td>{{item.Description}}</td>
                         <td>{{item.City}}</td>
                         <td>{{item.Cinema}}</td>
                     </tr>
